@@ -1,2 +1,0 @@
-# Wasif Taj
-Hello World
